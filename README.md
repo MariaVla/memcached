@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-  Ruby 2.5.1p157
+    Ruby 2.5.1p157
 
 ## Running
 
